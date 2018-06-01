@@ -1,0 +1,20 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<books>
+    <book id="1010596200" category="编程">
+        <title>Java编程思想</title>
+        <author>埃克尔</author>
+        <pubDate>2007-6-1</pubDate>
+        <pages>880</pages>
+        <price>30.0</price>
+    </book>
+    <book id="1010696100" category="文学">
+        <title>红楼梦</title>
+        <author>
+            <firstAuthor>曹雪芹</firstAuthor>
+            <secondAuthor>高鹗</secondAuthor>
+        </author>
+        <pubDate>2012-9-1</pubDate>
+        <pages>1606</pages>
+        <price>41.5</price>
+    </book>
+</books>
